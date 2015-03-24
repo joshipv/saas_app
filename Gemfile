@@ -43,6 +43,8 @@ gem 'devise', '3.4.1'
 gem 'figaro', '1.1.0'
 #paperclip gem for imageuploads, ImageMagick required
 gem 'paperclip', '4.2.1'
+#adding autoprefixer for rails
+gem 'autoprefixer-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
